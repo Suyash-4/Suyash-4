@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/blahman09398621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blahman09398621" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suyash-48a954218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suyash-48a954218/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/suyash-48a954218?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bsjuhz2leqvsgbwa1rdddfw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suyash-48a954218?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bsjuhz2leqvsgbwa1rdddfw%3d%3d" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@suyash835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@suyash835" height="30" width="40" /></a>
 </p>
 

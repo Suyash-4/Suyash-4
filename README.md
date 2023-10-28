@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C++, C#, Tailwind CSS**
 
-- 👨‍💻 My Personal Profile Page --> [https://suyash-4.github.io/CODSOFT/](https://suyash-4.github.io/CODSOFT/)
+- 👨‍💻 My Personal Profile Page --> [https://lnkd.in/gHPDrj6y](https://lnkd.in/gHPDrj6y)
 
 - 📫 How to reach me **mishrasuyash2018@gmail.com**
 

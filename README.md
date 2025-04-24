@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/blahman09398621" target="blank"><img src="https://img.shields.io/twitter/follow/blahman09398621?logo=twitter&style=for-the-badge" alt="blahman09398621" /></a> </p>
 
-- 🔭 I’m currently working on a **C++ Project**
+- 🔭 I’m currently working on a **MERN Project**
 
-- 🌱 I’m currently learning **C++, C#, Tailwind CSS**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 My Personal Profile Page --> [[https://lnkd.in/gHPDrj6y](https://suyash-4.github.io/Profile_page/)]
 

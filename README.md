@@ -1,5 +1,5 @@
 <p align="center" style="width:100%; display:flex; justify-content:center;">
-  <img src="https://images.unsplash.com/photo-1563089145-599997674d42?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="abstract banner" style="width:100%; max-width:1170px; height:200px; object-fit:cover; border-radius:10px; background-size:cover; background-position:center;" />
+  <img src="f10bf113-eaf2-480f-9909-59e2a62833c9.jpg" alt="abstract banner" style="width:100%; max-width:1170px; height:200px; object-fit:cover; border-radius:10px; background-size:cover; background-position:center;" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Suyash</h1>

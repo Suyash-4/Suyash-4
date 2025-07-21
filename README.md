@@ -1,5 +1,5 @@
 <p align="center" style="width:100%; display:flex; justify-content:center;">
-  <img src="f10bf113-eaf2-480f-9909-59e2a62833c9.jpg" alt="abstract banner" style="width:100%; max-width:1170px; height:200px; object-fit:cover; border-radius:10px; background-size:cover; background-position:center;" />
+  <img src="Creative Web Design.png" alt="abstract banner" style="width:100%;  height:550px; " />
 </p>
 
 <h1 align="center">Hey 👋, I'm Suyash</h1>
